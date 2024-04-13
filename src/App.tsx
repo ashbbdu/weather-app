@@ -7,7 +7,6 @@ function App() {
 
   return (
     <div>
-      ,mnkl
       <Routes>
       <Route path='/' element={<Home />} />
       <Route path='/citydetails' element={<CityDetails />} />
